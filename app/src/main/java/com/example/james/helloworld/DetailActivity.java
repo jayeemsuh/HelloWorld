@@ -41,6 +41,8 @@ public class DetailActivity extends ActionBarActivity {
         // See if there is a valid coverID
         if (coverID.length() > 0) {
 
+            //change
+
             // Use the ID to construct an image URL
             mImageURL = IMAGE_URL_BASE + coverID + "-L.jpg";
 
